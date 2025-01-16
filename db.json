@@ -1,0 +1,14 @@
+{
+    "posts": [
+      { "id": 1, "title": "Post 1 server-api-placeholder" },
+      { "id": 2, "title": "Post 2 server-api-placeholder" },
+      { "id": 3, "title": "Post 3 server-api-placeholder" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment server-api-placeholder", "postId": 1 },
+      { "id": 2, "body": "some comment server-api-placeholder", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode server-api-placeholder"
+    }
+  }
